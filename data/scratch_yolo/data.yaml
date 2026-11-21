@@ -1,0 +1,6 @@
+path: C:\Users\Kalyani Shinde\Desktop\Scratch-Detection-System\data\scratch_yolo
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: scratch
